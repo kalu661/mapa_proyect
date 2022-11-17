@@ -1,0 +1,17 @@
+html,
+body {
+	margin: 0;
+}
+.leaflet-container {
+	display: inline-table;
+	left: 25%;
+	width: 50%;
+	height: 80vh;
+	position: absolute;
+	border-color: blue;
+	border-style: solid;
+}
+#_modal_marker {
+	align-items: 50%;
+	columns: auto;
+}
